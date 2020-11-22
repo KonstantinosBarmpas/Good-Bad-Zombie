@@ -1,10 +1,12 @@
-# **The good, the bad and the zombie**
+# **The Good, The Bad And The Zombie**
 
-## Assignment for "Programming Techinques" at National Technical University of Athens department of Electrical and Computer Engineering.
+## Project for "Programming Techinques" at National Technical University of Athens department of Electrical and Computer Engineering.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
-**The good, the bad and the zombie**
+**Description**
 
 The game consists of Good, bad and zombie characters. Each character has 100 hit points in a circular linked list (world).
 
@@ -17,7 +19,7 @@ Zombie characters can attack both good and bad. They have 10% to turn them to zo
 Each character is created in a wrapper class Person. The game ends when all characters are one kind in the world.
 
 
-Report:
+**Report (in Greek)**
 
 Δομή του Προγράμματος:
 Οι κλάσεις του προγράμματος είναι: Η κλάση wrapper Person
@@ -94,5 +96,6 @@ hit_points τους και ελεγχουμε αν ειναι ολα ιδια ή
 ![image1]
 
 ---
+
 
 
