@@ -6,7 +6,7 @@
 
 ---
 
-**Description**
+## Description
 
 The game consists of Good, bad and zombie characters. Each character has 100 hit points in a circular linked list (world).
 
@@ -19,7 +19,7 @@ Zombie characters can attack both good and bad. They have 10% to turn them to zo
 Each character is created in a wrapper class Person. The game ends when all characters are one kind in the world.
 
 
-**Report (in Greek)**
+## Report (in Greek)
 
 Δομή του Προγράμματος:
 Οι κλάσεις του προγράμματος είναι: Η κλάση wrapper Person
