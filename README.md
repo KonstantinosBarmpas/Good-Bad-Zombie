@@ -1,6 +1,6 @@
 # **The Good, The Bad And The Zombie**
 
-## [NTUA-ECE] Project for "Programming Techinques" at National Technical University of Athens department of Electrical and Computer Engineering.
+## Project for "Programming Techinques" at National Technical University of Athens department of Electrical and Computer Engineering.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
